@@ -1,4 +1,4 @@
 # test3
 
 Hello hello
-qwgr233!242
+key = "qwgr233!242"
